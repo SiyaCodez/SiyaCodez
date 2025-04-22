@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building a real-time AI Voice Chat Agent.<br>👯 Open to collabs on: AI, APIs, web/app projects<br>🤝 Need help: in fine-tuning AI models and mobile apps.<br>🌱 Learning: AWS Cloud Computing.<br>💬 Ask me about: web dev & AI.<br>⚡ Fun fact: I love building things that solve problems and make an impact on people's lives.
+🔭 Currently building a real-time AI Voice Chat Agent.<br>👯 Open to collabs on: AI, APIs, web/app projects<br>🤝 Need help: in fine-tuning AI models and mobile apps.<br>🌱 Learning: AWS Cloud Computing.<br>💬 Ask me about: Cybersecurity, Web Dev & AI.<br>⚡ Fun fact: I love building things that solve problems and make an impact on people's lives.
 
 
 ## 🌐 Socials:
